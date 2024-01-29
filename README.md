@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-### 📫 How to reach me:
+### 📫 How to reach me out:
 - http://www.dzfweb.com.br
+- douglas.franco@dzfweb.com.br
 
 ---
 
