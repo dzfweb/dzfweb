@@ -2,13 +2,6 @@
 
 ### 📫 How to reach me out:
 - http://www.dzfweb.com.br
-- douglas.franco@dzfweb.com.br
-
----
-
-This profile is under construction 🏗️, but below you can see some stats about me
----
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzfweb)](https://github.com/anuraghazra/github-readme-stats)
 
